@@ -14,9 +14,8 @@
 
 ## 🌌 Overview
 
-Step into the future with the **SMS Management System**! This sleek Flask-powered app redefines SMS management with a stunning blue "future tech" theme. Featuring a responsive dashboard, real-time graphs, and support for HSDPA USB modems, it’s your gateway to monitoring and controlling SMS operations. Watch the magic unfold as logs pulse with activity... ✨
+Step into the future with the **SMS Management System**! This sleek Flask-powered app redefines SMS management with a stunning blue "future tech" theme. Featuring a responsive dashboard, real-time graphs, and support for HSDPA USB modems, it’s your gateway to monitoring and controlling SMS operations.✨
 
-- *Pulsing Effect*: `. . .`
 
 ## 🎮 Features
 
@@ -36,7 +35,7 @@ Step into the future with the **SMS Management System**! This sleek Flask-powere
 ## 📦 Installation
 
 1. Clone the repo:
-git clone https://github.com/yourusername/sms-management-system.git cd sms-management-system
+git clone https://github.com/trevorcohen16/sms-management-system.git cd sms-management-system
 2. Install dependencies:
 pip install -r requirements.txt
 - Includes: `flask==3.0.3`, `pyserial==3.5`, `requests==2.31.0`
@@ -82,14 +81,6 @@ Licensed under the [MIT License](LICENSE). Use, modify, and share freely! 🚀
 
 ---
 
-<div align="center">
-<p style="color: #E0E7FF;">Built with ❤️ by [Your Name] | Updated: 10:20 PM CEST, May 18, 2025</p>
-<p>*Bouncing Effect*: ⬆️⬇️⬆️⬇️</p>
-</div>
 
-<style>
-@keyframes typing {
- from { width: 0; }
- to { width: 100%; }
-}
-</style>
+
+
