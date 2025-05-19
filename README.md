@@ -35,7 +35,7 @@ Step into the future with the **SMS Management System**! This sleek Flask-powere
 ## 📦 Installation
 
 1. Clone the repo:
-git clone https://github.com/trevorcohen16/sms-management-system.git cd sms-management-system
+git clone https://github.com/Trevorcohen16/sms-management-system.git cd sms-management-system
 2. Install dependencies:
 pip install -r requirements.txt
 - Includes: `flask==3.0.3`, `pyserial==3.5`, `requests==2.31.0`
