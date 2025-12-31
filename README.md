@@ -1,8 +1,8 @@
 # 🚀 SMS Management System
 
 <div align="center">
-  <h1 style="color: #00D4FF; text-shadow: 0 0 15px #00D4FF;">SMS Management System</h1>
-  <p style="color: #E0E7FF;">A cutting-edge Flask dashboard for futuristic SMS control... <span style="animation: typing 3s steps(40, end) infinite;">|</span></p>
+  <h1 style="color: #00D4FF; text-shadow: 0 0 15px #00D4FF;">Making AI accessible to everyone </h1>
+  <p style="color: #E0E7FF;">Using sms... <span style="animation: typing 3s steps(40, end) infinite;">|</span></p>
   <p>
     <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version">
@@ -19,7 +19,6 @@ Step into the future with the **SMS Management System**! This sleek Flask-powere
 
 ## 🎮 Features
 
-- 🔵 **Futuristic UI** with glassmorphic cards and glowing gradients.
 - 📊 **Real-Time Monitoring** of SMS logs and interactive graphs.
 - 📡 **HSDPA Modem Support** for sending/receiving SMS.
 - 🎛️ **Dynamic Dashboard** with start/stop controls.
